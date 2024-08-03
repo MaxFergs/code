@@ -5,7 +5,7 @@ import os
 import time
 
 
-botToken = "YOUR BOT TOKEN HERE"
+botToken = "BOT TOKEN"
 
 global file, a, game, winrate, numwins, numlosses, money, tool, \
     ore, dirt, cobblestone, coal, iron, gold, diamond, cooldown, \
